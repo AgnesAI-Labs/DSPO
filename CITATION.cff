@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "DSPO: Stable and Efficient Policy Optimization for Agentic Search and Reasoning"
+message: "If you find this work useful, please cite this paper."
+type: article
+authors:
+
+* family-names: Gu
+  given-names: Chenyang
+* family-names: Pu
+  given-names: Yewen
+* family-names: Yang
+  given-names: Bruce
+* family-names: Li
+  given-names: Xiaofan
+* family-names: Gao
+  given-names: Huan
+  repository-code: "https://github.com/AgnesAI-Labs/DSPO"
+  url: "https://arxiv.org/abs/2510.09255"
+  doi: "10.48550/arXiv.2510.09255"
+  date-released: "2025-10-10"
